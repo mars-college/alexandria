@@ -53,15 +53,11 @@ The wiki uses markdown language, a simple language created to make text editing 
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
-
 ### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    |       Title |
+| Paragraph |        Text |
 
 ```
