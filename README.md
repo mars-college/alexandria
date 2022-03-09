@@ -7,53 +7,53 @@ To be able to edit content in the library you have to have a github.com account 
 The wiki uses markdown language, a simple language created to make text editing easy. You will recognize lots of the modifiers on this language are all around the web, like on whatsapp, or facebook. Here's a quick cheatsheet:
 
 ```
-### Heading
+Heading
 
-# H1
-## H2
-### H3
+# H1 (BIG JUICY LETTERS)
+## H2 (Medium titles)
+### H3 (Small titles)
 
-### Bold
+Bold
 
 **bold text**
 
-### Italic
+Italic
 
 *italicized text*
 
-### Blockquote
+Blockquote
 
 > blockquote
 
-### Ordered List
+Ordered List
 
 1. First item
 2. Second item
 3. Third item
 
-### Unordered List
+Unordered List
 
 - First item
 - Second item
 - Third item
 
-### Code
+Code
 
 `code`
 
-### Horizontal Rule
+Horizontal Rule
 
 ---
 
-### Link
+Link
 
 [Markdown Guide](https://www.markdownguide.org)
 
-### Image
+Image
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
-### Table
+Table
 
 | Syntax    | Description |
 | --------- | ----------- |
